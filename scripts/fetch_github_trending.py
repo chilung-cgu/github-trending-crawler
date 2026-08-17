@@ -127,6 +127,15 @@ def parse_page(html: str, period: str) -> tuple[list[dict[str, Any]], int]:
     if len(names) != len(set(names)):
         raise ValueError("duplicate repository names found in Top 10")
 
+    missing_period_stars = [
+        item["full_name"] for item in items if item["period_stars"] is None
+    ]
+    if missing_period_stars:
+        raise ValueError(
+            "failed to parse Trending period-star count for: "
+            + ", ".join(missing_period_stars)
+        )
+
     return items, len(cards)
 
 
@@ -212,7 +221,7 @@ def fetch_period(
                 "items": items,
             }
 
-        except Exception as exc:  # record exact failure and retry
+        except Exception as exc:
             error: dict[str, Any] = {
                 "attempt": attempt,
                 "started_at_utc": iso(started_at),

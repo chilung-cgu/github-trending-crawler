@@ -91,7 +91,19 @@ jobs:
           fi
 
           git commit -m "data: refresh GitHub Trending $(date -u +'%Y-%m-%dT%H:%MZ')"
-          git push
+
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt}/3"
+            git fetch origin main
+            if git rebase origin/main && git push origin HEAD:main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 2))
+          done
+
+          echo 'Failed to push snapshot after 3 attempts.' >&2
+          exit 1
 
       - name: Upload debug HTML on crawler failure
         if: steps.crawl.outputs.exit_code != '0'

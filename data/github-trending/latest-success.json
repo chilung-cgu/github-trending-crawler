@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-09-07T00:19:50+00:00",
-  "generated_at_taipei": "2026-09-07T08:19:50+08:00",
+  "generated_at_utc": "2026-09-07T01:12:50+00:00",
+  "generated_at_taipei": "2026-09-07T09:12:50+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1788740390232462918-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1788743570092471014-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-07T00:19:51+00:00",
-      "fetched_at_taipei": "2026-09-07T08:19:51+08:00",
+      "fetched_at_utc": "2026-09-07T01:12:51+00:00",
+      "fetched_at_taipei": "2026-09-07T09:12:51+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 07 Sep 2026 00:19:51 GMT",
+        "date": "Mon, 07 Sep 2026 01:12:51 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"259f12604ba4399ec5c98fc72aaeb062\"",
-        "x-github-request-id": "D241:130119:3C14E3:4EFFE8:6A9E0326"
+        "etag": "W/\"2be9a46647d96c82b38aab201ee3e741\"",
+        "x-github-request-id": "4422:AF79E:69C1DA:8E05F2:6A9E0F92"
       },
-      "html_sha256": "57f065bf4b1944d858eee75418ff47ec728a725e88dd217f9c8b88b307c94966",
+      "html_sha256": "006cd6fe42f3d3e89c35af8640a7776d17d8e14048add5a406bedf70d25c2a03",
       "parsed_repository_cards": 21,
       "items": [
         {
@@ -37,8 +37,8 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "total_stars": 50766,
-          "forks": 3307,
+          "total_stars": 50827,
+          "forks": 3313,
           "period_stars": 17190,
           "period_label": "stars this week"
         },
@@ -48,8 +48,8 @@
           "url": "https://github.com/magnitudedev/magnitude",
           "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
           "language": "TypeScript",
-          "total_stars": 3666,
-          "forks": 259,
+          "total_stars": 3677,
+          "forks": 260,
           "period_stars": 1961,
           "period_label": "stars this week"
         },
@@ -59,8 +59,8 @@
           "url": "https://github.com/THU-MAIC/OpenMAIC",
           "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
           "language": "TypeScript",
-          "total_stars": 32404,
-          "forks": 5295,
+          "total_stars": 32420,
+          "forks": 5297,
           "period_stars": 9193,
           "period_label": "stars this week"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/Gitlawb/openclaude",
           "description": "runs anywhere. uses anything",
           "language": "TypeScript",
-          "total_stars": 32838,
+          "total_stars": 32840,
           "forks": 9061,
           "period_stars": 1944,
           "period_label": "stars this week"
@@ -81,8 +81,8 @@
           "url": "https://github.com/pollen-robotics/microduck_rl",
           "description": "RL training environments for Microduck (mjlab)",
           "language": "Python",
-          "total_stars": 1820,
-          "forks": 363,
+          "total_stars": 1823,
+          "forks": 364,
           "period_stars": 1122,
           "period_label": "stars this week"
         },
@@ -92,7 +92,7 @@
           "url": "https://github.com/google-research/timesfm",
           "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
           "language": "Python",
-          "total_stars": 31641,
+          "total_stars": 31647,
           "forks": 3029,
           "period_stars": 3203,
           "period_label": "stars this week"
@@ -103,8 +103,8 @@
           "url": "https://github.com/jingyaogong/minimind",
           "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
           "language": "Python",
-          "total_stars": 59146,
-          "forks": 7677,
+          "total_stars": 59155,
+          "forks": 7681,
           "period_stars": 3816,
           "period_label": "stars this week"
         },
@@ -114,7 +114,7 @@
           "url": "https://github.com/fmtlib/fmt",
           "description": "A modern formatting library",
           "language": "C++",
-          "total_stars": 25621,
+          "total_stars": 25624,
           "forks": 3045,
           "period_stars": 1885,
           "period_label": "stars this week"
@@ -125,8 +125,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "total_stars": 19837,
-          "forks": 2511,
+          "total_stars": 19860,
+          "forks": 2512,
           "period_stars": 7513,
           "period_label": "stars this week"
         },
@@ -136,8 +136,8 @@
           "url": "https://github.com/handsomestWei/patent-disclosure-skill",
           "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
           "language": "Python",
-          "total_stars": 7773,
-          "forks": 840,
+          "total_stars": 7808,
+          "forks": 844,
           "period_stars": 2093,
           "period_label": "stars this week"
         }
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1788740391556795869-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1788743571586058502-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-07T00:19:52+00:00",
-      "fetched_at_taipei": "2026-09-07T08:19:52+08:00",
+      "fetched_at_utc": "2026-09-07T01:12:52+00:00",
+      "fetched_at_taipei": "2026-09-07T09:12:52+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 07 Sep 2026 00:19:52 GMT",
+        "date": "Mon, 07 Sep 2026 01:12:52 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"261bf931ffd0730cf050aa14173590ff\"",
-        "x-github-request-id": "D241:130119:3C1852:4F04B5:6A9E0327"
+        "etag": "W/\"6cccd8d33f28fb653ed3543ce74f17d8\"",
+        "x-github-request-id": "4422:AF79E:69C635:8E0BDF:6A9E0F93"
       },
-      "html_sha256": "f710a1573be6493fc0181de534de8209d1cd6faf3a939e28bbaae89c2f8d7341",
+      "html_sha256": "ce60abd286d7d5bc333da442d504a2533ce9c6492a7d88e401979de8a152aab7",
       "parsed_repository_cards": 22,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "total_stars": 32338,
-          "forks": 2076,
+          "total_stars": 32382,
+          "forks": 2078,
           "period_stars": 29194,
           "period_label": "stars this month"
         },
@@ -177,8 +177,8 @@
           "url": "https://github.com/omacom/omarchy",
           "description": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
-          "total_stars": 38604,
-          "forks": 4154,
+          "total_stars": 38616,
+          "forks": 4155,
           "period_stars": 14497,
           "period_label": "stars this month"
         },
@@ -188,7 +188,7 @@
           "url": "https://github.com/semantica-agi/semantica",
           "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
           "language": "Python",
-          "total_stars": 12176,
+          "total_stars": 12179,
           "forks": 1373,
           "period_stars": 10145,
           "period_label": "stars this month"
@@ -199,8 +199,8 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "total_stars": 50766,
-          "forks": 3307,
+          "total_stars": 50827,
+          "forks": 3313,
           "period_stars": 41018,
           "period_label": "stars this month"
         },
@@ -211,7 +211,7 @@
           "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
           "language": "Python",
           "total_stars": 3527,
-          "forks": 271,
+          "forks": 272,
           "period_stars": 3243,
           "period_label": "stars this month"
         },
@@ -221,7 +221,7 @@
           "url": "https://github.com/AprilNEA/OpenLogi",
           "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
           "language": "Rust",
-          "total_stars": 19731,
+          "total_stars": 19734,
           "forks": 601,
           "period_stars": 11494,
           "period_label": "stars this month"
@@ -232,7 +232,7 @@
           "url": "https://github.com/volcengine/OpenViking",
           "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
           "language": "Python",
-          "total_stars": 35786,
+          "total_stars": 35791,
           "forks": 2728,
           "period_stars": 7895,
           "period_label": "stars this month"
@@ -243,8 +243,8 @@
           "url": "https://github.com/PrimeIntellect-ai/prime-agent",
           "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
           "language": "TypeScript",
-          "total_stars": 20051,
-          "forks": 2191,
+          "total_stars": 20057,
+          "forks": 2193,
           "period_stars": 17024,
           "period_label": "stars this month"
         },
@@ -254,7 +254,7 @@
           "url": "https://github.com/xai-org/x-algorithm",
           "description": "Algorithm powering the For You feed on X",
           "language": "Rust",
-          "total_stars": 32789,
+          "total_stars": 32792,
           "forks": 5365,
           "period_stars": 5983,
           "period_label": "stars this month"
@@ -265,8 +265,8 @@
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
           "language": "JavaScript",
-          "total_stars": 28304,
-          "forks": 2714,
+          "total_stars": 28309,
+          "forks": 2715,
           "period_stars": 19087,
           "period_label": "stars this month"
         }

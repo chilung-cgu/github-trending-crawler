@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-09-14T00:25:30+00:00",
-  "generated_at_taipei": "2026-09-14T08:25:30+08:00",
+  "generated_at_utc": "2026-09-14T01:24:46+00:00",
+  "generated_at_taipei": "2026-09-14T09:24:46+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1789345530991946197-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1789349086928239809-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-14T00:25:32+00:00",
-      "fetched_at_taipei": "2026-09-14T08:25:32+08:00",
+      "fetched_at_utc": "2026-09-14T01:24:48+00:00",
+      "fetched_at_taipei": "2026-09-14T09:24:48+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 14 Sep 2026 00:25:32 GMT",
+        "date": "Mon, 14 Sep 2026 01:24:48 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"ff88d6539c9e3f74ec854cb5cb2f89a2\"",
-        "x-github-request-id": "EC21:23E997:66FC05B:8BF68E6:6AA73EFB"
+        "etag": "W/\"9269187dd7edebf25757b24acd9c0e9a\"",
+        "x-github-request-id": "1C41:1B66A6:79E1E5:9FC7B3:6AA74CDF"
       },
-      "html_sha256": "be731029c9ca7b38111f39451ab17150fd5cb4778c8e764204b9ea4b301fe407",
+      "html_sha256": "b76a85bcb186ae4a7c51b60d756bc357cbbaf584f8cbd6445430b2b8f7c2829c",
       "parsed_repository_cards": 23,
       "items": [
         {
@@ -37,8 +37,8 @@
           "url": "https://github.com/ayghri/i-have-adhd",
           "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "total_stars": 44309,
-          "forks": 2545,
+          "total_stars": 44348,
+          "forks": 2548,
           "period_stars": 16740,
           "period_label": "stars this week"
         },
@@ -48,7 +48,7 @@
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "total_stars": 257747,
+          "total_stars": 257769,
           "forks": 38551,
           "period_stars": 7264,
           "period_label": "stars this week"
@@ -59,7 +59,7 @@
           "url": "https://github.com/openai/plugins",
           "description": "OpenAI Plugins",
           "language": "JavaScript",
-          "total_stars": 6616,
+          "total_stars": 6618,
           "forks": 871,
           "period_stars": 1181,
           "period_label": "stars this week"
@@ -70,8 +70,8 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "total_stars": 31860,
-          "forks": 6396,
+          "total_stars": 31935,
+          "forks": 6413,
           "period_stars": 12931,
           "period_label": "stars this week"
         },
@@ -81,7 +81,7 @@
           "url": "https://github.com/mksglu/context-mode",
           "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "total_stars": 22620,
+          "total_stars": 22630,
           "forks": 1631,
           "period_stars": 2102,
           "period_label": "stars this week"
@@ -92,8 +92,8 @@
           "url": "https://github.com/DietrichGebert/ponytail",
           "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
           "language": "JavaScript",
-          "total_stars": 137299,
-          "forks": 7372,
+          "total_stars": 137347,
+          "forks": 7376,
           "period_stars": 8444,
           "period_label": "stars this week"
         },
@@ -103,8 +103,8 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "total_stars": 60736,
-          "forks": 3990,
+          "total_stars": 60796,
+          "forks": 3995,
           "period_stars": 10132,
           "period_label": "stars this week"
         },
@@ -114,7 +114,7 @@
           "url": "https://github.com/openai/skills",
           "description": "Skills Catalog for Codex",
           "language": "Python",
-          "total_stars": 27094,
+          "total_stars": 27096,
           "forks": 1809,
           "period_stars": 1622,
           "period_label": "stars this week"
@@ -125,8 +125,8 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 49588,
-          "forks": 4529,
+          "total_stars": 49610,
+          "forks": 4532,
           "period_stars": 5146,
           "period_label": "stars this week"
         },
@@ -136,8 +136,8 @@
           "url": "https://github.com/microsoft/markitdown",
           "description": "Python tool for converting files and office documents to Markdown.",
           "language": "Python",
-          "total_stars": 183583,
-          "forks": 13506,
+          "total_stars": 183601,
+          "forks": 13509,
           "period_stars": 5191,
           "period_label": "stars this week"
         }
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1789345532743626710-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1789349088477117634-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-14T00:25:33+00:00",
-      "fetched_at_taipei": "2026-09-14T08:25:33+08:00",
+      "fetched_at_utc": "2026-09-14T01:24:49+00:00",
+      "fetched_at_taipei": "2026-09-14T09:24:49+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 14 Sep 2026 00:25:33 GMT",
+        "date": "Mon, 14 Sep 2026 01:24:49 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"2b23febaa2399caec341755c35325f98\"",
-        "x-github-request-id": "EC21:23E997:66FC411:8BF6DD7:6AA73EFC"
+        "etag": "W/\"e368d24df0e97f2a8e7f259acbd0dfff\"",
+        "x-github-request-id": "1C41:1B66A6:79E5FD:9FCCF4:6AA74CE0"
       },
-      "html_sha256": "ff2dc05f30e731e753b883dbe89206ed6e39b6c51f90a02da1f841012ffa4cda",
+      "html_sha256": "0059ff76718090fe964e40c871adf276712308a2a3edb0c232d164b09b1fd85b",
       "parsed_repository_cards": 17,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/omacom/omarchy",
           "description": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
-          "total_stars": 40845,
-          "forks": 4579,
+          "total_stars": 40854,
+          "forks": 4583,
           "period_stars": 16489,
           "period_label": "stars this month"
         },
@@ -177,8 +177,8 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "total_stars": 60736,
-          "forks": 3990,
+          "total_stars": 60796,
+          "forks": 3995,
           "period_stars": 48808,
           "period_label": "stars this month"
         },
@@ -188,7 +188,7 @@
           "url": "https://github.com/anthropics/claude-plugins-community",
           "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
           "language": "Python",
-          "total_stars": 3938,
+          "total_stars": 3941,
           "forks": 289,
           "period_stars": 3635,
           "period_label": "stars this month"
@@ -199,7 +199,7 @@
           "url": "https://github.com/AprilNEA/OpenLogi",
           "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
           "language": "Rust",
-          "total_stars": 20938,
+          "total_stars": 20946,
           "forks": 674,
           "period_stars": 12557,
           "period_label": "stars this month"
@@ -210,7 +210,7 @@
           "url": "https://github.com/cursor/plugins",
           "description": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "total_stars": 7620,
+          "total_stars": 7623,
           "forks": 673,
           "period_stars": 4967,
           "period_label": "stars this month"
@@ -221,7 +221,7 @@
           "url": "https://github.com/volcengine/OpenViking",
           "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
           "language": "Python",
-          "total_stars": 37025,
+          "total_stars": 37032,
           "forks": 2843,
           "period_stars": 8745,
           "period_label": "stars this month"
@@ -232,8 +232,8 @@
           "url": "https://github.com/cathrynlavery/diagram-design",
           "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
           "language": "HTML",
-          "total_stars": 39179,
-          "forks": 2488,
+          "total_stars": 39226,
+          "forks": 2491,
           "period_stars": 26213,
           "period_label": "stars this month"
         },
@@ -243,8 +243,8 @@
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
           "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
           "language": "JavaScript",
-          "total_stars": 31652,
-          "forks": 3061,
+          "total_stars": 31657,
+          "forks": 3062,
           "period_stars": 21897,
           "period_label": "stars this month"
         },
@@ -254,8 +254,8 @@
           "url": "https://github.com/THU-MAIC/OpenMAIC",
           "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
           "language": "TypeScript",
-          "total_stars": 36466,
-          "forks": 5780,
+          "total_stars": 36479,
+          "forks": 5782,
           "period_stars": 15888,
           "period_label": "stars this month"
         },
@@ -265,8 +265,8 @@
           "url": "https://github.com/ayghri/i-have-adhd",
           "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "total_stars": 44309,
-          "forks": 2545,
+          "total_stars": 44348,
+          "forks": 2548,
           "period_stars": 24025,
           "period_label": "stars this month"
         }

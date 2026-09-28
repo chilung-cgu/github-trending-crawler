@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-09-28T01:10:19+00:00",
-  "generated_at_taipei": "2026-09-28T09:10:19+08:00",
+  "generated_at_utc": "2026-09-28T01:53:44+00:00",
+  "generated_at_taipei": "2026-09-28T09:53:44+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1790557819175157378-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1790560424410236813-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-28T01:10:20+00:00",
-      "fetched_at_taipei": "2026-09-28T09:10:20+08:00",
+      "fetched_at_utc": "2026-09-28T01:53:45+00:00",
+      "fetched_at_taipei": "2026-09-28T09:53:45+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 28 Sep 2026 01:10:20 GMT",
+        "date": "Mon, 28 Sep 2026 01:53:45 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"5e1323d68f629fa58d7d0353fdb2625e\"",
-        "x-github-request-id": "6C01:D8F58:EFF4EF:1433B72:6AB9BE7B"
+        "etag": "W/\"2846340916abaf7fafbeff48fd08b1cb\"",
+        "x-github-request-id": "EC41:31A094:A81E2E:DEA31A:6AB9C8A8"
       },
-      "html_sha256": "ba846b55295b044ce72a6be5e9952e5063b6b7e70f355a433a724dcf0d1edc7e",
+      "html_sha256": "8255d0cba793121b1e3ac0170f0e10d7a8735c85c198df36b38638a9e2747646",
       "parsed_repository_cards": 18,
       "items": [
         {
@@ -37,7 +37,7 @@
           "url": "https://github.com/anthropics/financial-services",
           "description": null,
           "language": "Python",
-          "total_stars": 37862,
+          "total_stars": 37869,
           "forks": 5464,
           "period_stars": 2606,
           "period_label": "stars this week"
@@ -48,8 +48,8 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "total_stars": 89923,
-          "forks": 15668,
+          "total_stars": 90034,
+          "forks": 15676,
           "period_stars": 7364,
           "period_label": "stars this week"
         },
@@ -59,8 +59,8 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "total_stars": 37331,
-          "forks": 4835,
+          "total_stars": 37428,
+          "forks": 4847,
           "period_stars": 11089,
           "period_label": "stars this week"
         },
@@ -70,8 +70,8 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 22341,
-          "forks": 1298,
+          "total_stars": 22355,
+          "forks": 1300,
           "period_stars": 4805,
           "period_label": "stars this week"
         },
@@ -81,8 +81,8 @@
           "url": "https://github.com/Tencent/WeKnora",
           "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
           "language": "Go",
-          "total_stars": 30613,
-          "forks": 4096,
+          "total_stars": 30627,
+          "forks": 4100,
           "period_stars": 2705,
           "period_label": "stars this week"
         },
@@ -92,8 +92,8 @@
           "url": "https://github.com/davila7/claude-code-templates",
           "description": "CLI tool for configuring and monitoring Claude Code",
           "language": "Python",
-          "total_stars": 31992,
-          "forks": 3643,
+          "total_stars": 31991,
+          "forks": 3644,
           "period_stars": 1154,
           "period_label": "stars this week"
         },
@@ -103,8 +103,8 @@
           "url": "https://github.com/stablyai/orca",
           "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
           "language": "TypeScript",
-          "total_stars": 79621,
-          "forks": 5209,
+          "total_stars": 79666,
+          "forks": 5210,
           "period_stars": 6227,
           "period_label": "stars this week"
         },
@@ -115,7 +115,7 @@
           "description": "The React Framework",
           "language": "JavaScript",
           "total_stars": 142803,
-          "forks": 33307,
+          "forks": 33309,
           "period_stars": 496,
           "period_label": "stars this week"
         },
@@ -125,7 +125,7 @@
           "url": "https://github.com/HKUDS/CLI-Anything",
           "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
           "language": "Python",
-          "total_stars": 50755,
+          "total_stars": 50761,
           "forks": 4639,
           "period_stars": 1105,
           "period_label": "stars this week"
@@ -136,8 +136,8 @@
           "url": "https://github.com/pytorch/pytorch",
           "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
           "language": "Python",
-          "total_stars": 103422,
-          "forks": 30769,
+          "total_stars": 103425,
+          "forks": 30774,
           "period_stars": 320,
           "period_label": "stars this week"
         }
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1790557820597547171-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1790560425993617281-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-09-28T01:10:21+00:00",
-      "fetched_at_taipei": "2026-09-28T09:10:21+08:00",
+      "fetched_at_utc": "2026-09-28T01:53:46+00:00",
+      "fetched_at_taipei": "2026-09-28T09:53:46+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 28 Sep 2026 01:10:21 GMT",
+        "date": "Mon, 28 Sep 2026 01:53:46 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"fefdc10916e1a689bd989cc8677f392a\"",
-        "x-github-request-id": "6C01:D8F58:EFF87A:1434036:6AB9BE7C"
+        "etag": "W/\"2e0c080ba3b3cf8afefec4fab3b2beed\"",
+        "x-github-request-id": "EC41:31A094:A822BC:DEA913:6AB9C8A9"
       },
-      "html_sha256": "ce74739a4ba4102238a546fac1010efbc023d5b49cd78a30528558696ae89504",
+      "html_sha256": "911da4691577b0f734063cea80011e6284f7e511b4da8cb600b51e12928da9a1",
       "parsed_repository_cards": 18,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 22341,
-          "forks": 1298,
+          "total_stars": 22355,
+          "forks": 1300,
           "period_stars": 19427,
           "period_label": "stars this month"
         },
@@ -177,7 +177,7 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "total_stars": 44071,
+          "total_stars": 44078,
           "forks": 8966,
           "period_stars": 37567,
           "period_label": "stars this month"
@@ -188,8 +188,8 @@
           "url": "https://github.com/miuuyy/codex-chatgpt-web",
           "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
           "language": "TypeScript",
-          "total_stars": 12086,
-          "forks": 958,
+          "total_stars": 12105,
+          "forks": 960,
           "period_stars": 10481,
           "period_label": "stars this month"
         },
@@ -199,8 +199,8 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
           "language": "JavaScript",
-          "total_stars": 72807,
-          "forks": 4920,
+          "total_stars": 72838,
+          "forks": 4922,
           "period_stars": 51711,
           "period_label": "stars this month"
         },
@@ -210,7 +210,7 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "total_stars": 41932,
+          "total_stars": 41951,
           "forks": 3010,
           "period_stars": 20657,
           "period_label": "stars this month"
@@ -232,8 +232,8 @@
           "url": "https://github.com/THU-MAIC/OpenMAIC",
           "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
           "language": "TypeScript",
-          "total_stars": 39285,
-          "forks": 6101,
+          "total_stars": 39289,
+          "forks": 6102,
           "period_stars": 18484,
           "period_label": "stars this month"
         },
@@ -243,8 +243,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "total_stars": 40181,
-          "forks": 4776,
+          "total_stars": 40263,
+          "forks": 4784,
           "period_stars": 27329,
           "period_label": "stars this month"
         },
@@ -265,7 +265,7 @@
           "url": "https://github.com/magnitudedev/magnitude",
           "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
           "language": "Rust",
-          "total_stars": 5274,
+          "total_stars": 5275,
           "forks": 379,
           "period_stars": 3743,
           "period_label": "stars this month"

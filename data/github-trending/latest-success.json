@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-10-05T01:15:52+00:00",
-  "generated_at_taipei": "2026-10-05T09:15:52+08:00",
+  "generated_at_utc": "2026-10-05T02:16:06+00:00",
+  "generated_at_taipei": "2026-10-05T10:16:06+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1791162952230128316-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1791166566691480673-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-10-05T01:15:53+00:00",
-      "fetched_at_taipei": "2026-10-05T09:15:53+08:00",
+      "fetched_at_utc": "2026-10-05T02:16:08+00:00",
+      "fetched_at_taipei": "2026-10-05T10:16:08+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 05 Oct 2026 01:15:53 GMT",
+        "date": "Mon, 05 Oct 2026 02:16:08 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"8f6a9cb660e013e5043f9e8d3063c4a0\"",
-        "x-github-request-id": "B7C1:30E1E:F2965:15D937:6AC2FA48"
+        "etag": "W/\"f9bf4447b4166b1eb0e2987e61321b66\"",
+        "x-github-request-id": "0431:54D5C:11104:161D9:6AC30866"
       },
-      "html_sha256": "dcc238c638a5ed9a6651fea8f230f598289ee96b98b9def085e21dd724bbfed0",
+      "html_sha256": "bef7bc5744e96d31f92590fc7fe4544599202d0c480b825f164eef0b2323de5d",
       "parsed_repository_cards": 19,
       "items": [
         {
@@ -37,8 +37,8 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "total_stars": 97204,
-          "forks": 16442,
+          "total_stars": 97220,
+          "forks": 16448,
           "period_stars": 8732,
           "period_label": "stars this week"
         },
@@ -48,8 +48,8 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "total_stars": 45501,
-          "forks": 5909,
+          "total_stars": 45522,
+          "forks": 5912,
           "period_stars": 10623,
           "period_label": "stars this week"
         },
@@ -59,8 +59,8 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design language that makes your AI harness better at design.",
           "language": "JavaScript",
-          "total_stars": 76301,
-          "forks": 4549,
+          "total_stars": 76347,
+          "forks": 4554,
           "period_stars": 4242,
           "period_label": "stars this week"
         },
@@ -70,8 +70,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "total_stars": 53170,
-          "forks": 5920,
+          "total_stars": 53191,
+          "forks": 5921,
           "period_stars": 14689,
           "period_label": "stars this week"
         },
@@ -81,8 +81,8 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 56776,
-          "forks": 5097,
+          "total_stars": 56796,
+          "forks": 5099,
           "period_stars": 3096,
           "period_label": "stars this week"
         },
@@ -92,7 +92,7 @@
           "url": "https://github.com/Effect-TS/effect",
           "description": "Build production-ready applications in TypeScript",
           "language": "TypeScript",
-          "total_stars": 16970,
+          "total_stars": 16974,
           "forks": 819,
           "period_stars": 702,
           "period_label": "stars this week"
@@ -103,8 +103,8 @@
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
           "description": "Learn it. Build it. Ship it for others.",
           "language": "Python",
-          "total_stars": 63930,
-          "forks": 10936,
+          "total_stars": 63955,
+          "forks": 10941,
           "period_stars": 4904,
           "period_label": "stars this week"
         },
@@ -114,8 +114,8 @@
           "url": "https://github.com/Panniantong/Agent-Reach",
           "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
           "language": "Python",
-          "total_stars": 90896,
-          "forks": 7984,
+          "total_stars": 90964,
+          "forks": 7989,
           "period_stars": 4789,
           "period_label": "stars this week"
         },
@@ -125,7 +125,7 @@
           "url": "https://github.com/alirezarezvani/claude-skills",
           "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
           "language": "Python",
-          "total_stars": 27604,
+          "total_stars": 27608,
           "forks": 3887,
           "period_stars": 1024,
           "period_label": "stars this week"
@@ -136,8 +136,8 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": null,
           "language": "TypeScript",
-          "total_stars": 25177,
-          "forks": 6517,
+          "total_stars": 25198,
+          "forks": 6518,
           "period_stars": 1304,
           "period_label": "stars this week"
         }
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1791162953688226755-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1791166568234432016-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-10-05T01:15:55+00:00",
-      "fetched_at_taipei": "2026-10-05T09:15:55+08:00",
+      "fetched_at_utc": "2026-10-05T02:16:09+00:00",
+      "fetched_at_taipei": "2026-10-05T10:16:09+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 05 Oct 2026 01:15:55 GMT",
+        "date": "Mon, 05 Oct 2026 02:16:09 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"80a67f1ebe02c6cc3b46b81361d69747\"",
-        "x-github-request-id": "B7C1:30E1E:F29F8:15DA03:6AC2FA49"
+        "etag": "W/\"50bb9ec6ab60846a4b7e0950ba91a903\"",
+        "x-github-request-id": "0431:54D5C:1145E:1660B:6AC30868"
       },
-      "html_sha256": "f2e8a242e21a985db31f05624ece5bc1f5d4c468e79bd70516cff96b6a14ceae",
+      "html_sha256": "028302ef7b337ba7622ae595582b328299ad687ce2a3daf095086c68ac332c05",
       "parsed_repository_cards": 23,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
           "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
           "language": "JavaScript",
-          "total_stars": 47535,
-          "forks": 9688,
+          "total_stars": 47551,
+          "forks": 9690,
           "period_stars": 30324,
           "period_label": "stars this month"
         },
@@ -177,7 +177,7 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "total_stars": 43717,
+          "total_stars": 43723,
           "forks": 3152,
           "period_stars": 22080,
           "period_label": "stars this month"
@@ -188,8 +188,8 @@
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "total_stars": 272986,
-          "forks": 40747,
+          "total_stars": 273010,
+          "forks": 40748,
           "period_stars": 26306,
           "period_label": "stars this month"
         },
@@ -199,8 +199,8 @@
           "url": "https://github.com/ayghri/i-have-adhd",
           "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
           "language": "Python",
-          "total_stars": 53603,
-          "forks": 3073,
+          "total_stars": 53620,
+          "forks": 3075,
           "period_stars": 26627,
           "period_label": "stars this month"
         },
@@ -210,7 +210,7 @@
           "url": "https://github.com/Tencent/WeKnora",
           "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
           "language": "Go",
-          "total_stars": 32026,
+          "total_stars": 32034,
           "forks": 4272,
           "period_stars": 10912,
           "period_label": "stars this month"
@@ -221,8 +221,8 @@
           "url": "https://github.com/anthropics/financial-services",
           "description": null,
           "language": "Python",
-          "total_stars": 38715,
-          "forks": 5551,
+          "total_stars": 38720,
+          "forks": 5552,
           "period_stars": 4143,
           "period_label": "stars this month"
         },
@@ -232,8 +232,8 @@
           "url": "https://github.com/mksglu/context-mode",
           "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
           "language": "TypeScript",
-          "total_stars": 25401,
-          "forks": 1818,
+          "total_stars": 25408,
+          "forks": 1820,
           "period_stars": 5116,
           "period_label": "stars this month"
         },
@@ -243,8 +243,8 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "total_stars": 97204,
-          "forks": 16442,
+          "total_stars": 97220,
+          "forks": 16448,
           "period_stars": 17361,
           "period_label": "stars this month"
         },
@@ -254,7 +254,7 @@
           "url": "https://github.com/tt-a1i/archify",
           "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
           "language": "JavaScript",
-          "total_stars": 77468,
+          "total_stars": 77489,
           "forks": 5212,
           "period_stars": 30184,
           "period_label": "stars this month"
@@ -265,8 +265,8 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "total_stars": 45501,
-          "forks": 5909,
+          "total_stars": 45522,
+          "forks": 5912,
           "period_stars": 23232,
           "period_label": "stars this month"
         }

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-10-12T01:46:22+00:00",
-  "generated_at_taipei": "2026-10-12T09:46:22+08:00",
+  "generated_at_utc": "2026-10-12T02:35:06+00:00",
+  "generated_at_taipei": "2026-10-12T10:35:06+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1791769582083536592-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1791772506954157700-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-10-12T01:46:23+00:00",
-      "fetched_at_taipei": "2026-10-12T09:46:23+08:00",
+      "fetched_at_utc": "2026-10-12T02:35:08+00:00",
+      "fetched_at_taipei": "2026-10-12T10:35:08+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 12 Oct 2026 01:46:23 GMT",
+        "date": "Mon, 12 Oct 2026 02:35:08 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"3e80c85aa392932cd3af97c80ba30b30\"",
-        "x-github-request-id": "6141:31F8FA:1285393:17BFF96:6ACC3BEE"
+        "etag": "W/\"4b4aef21c22ec53f0077c15b252e1b87\"",
+        "x-github-request-id": "1442:30958C:5E9EFB:7C2B9E:6ACC475B"
       },
-      "html_sha256": "79e373bfd9982f469bb24e5818d1c3b07c02d2288cd9f73d7010b530df1d7d93",
+      "html_sha256": "5b202c0e29afc0caf6c3f3e1f732f71eb4c4cb795fd176b4fad920d7295783ab",
       "parsed_repository_cards": 12,
       "items": [
         {
@@ -37,8 +37,8 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "description": "Tool for automatic PS5 executables porting to Linux and Windows",
           "language": "C++",
-          "total_stars": 30249,
-          "forks": 2602,
+          "total_stars": 30351,
+          "forks": 2609,
           "period_stars": 25151,
           "period_label": "stars this week"
         },
@@ -48,8 +48,8 @@
           "url": "https://github.com/tester-army/e2e",
           "description": "Next generation e2e testing framework for web and mobile apps.",
           "language": "TypeScript",
-          "total_stars": 9068,
-          "forks": 436,
+          "total_stars": 9098,
+          "forks": 439,
           "period_stars": 6440,
           "period_label": "stars this week"
         },
@@ -59,8 +59,8 @@
           "url": "https://github.com/mattpocock/skills",
           "description": "Skills for Real Engineers. Straight from my .agents directory.",
           "language": "Shell",
-          "total_stars": 286277,
-          "forks": 24022,
+          "total_stars": 286367,
+          "forks": 24028,
           "period_stars": 10330,
           "period_label": "stars this week"
         },
@@ -70,7 +70,7 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "total_stars": 99756,
+          "total_stars": 99769,
           "forks": 8749,
           "period_stars": 3803,
           "period_label": "stars this week"
@@ -81,7 +81,7 @@
           "url": "https://github.com/EpicGames/raddebugger",
           "description": "A native, user-mode, multi-process, graphical debugger.",
           "language": "C",
-          "total_stars": 8398,
+          "total_stars": 8400,
           "forks": 405,
           "period_stars": 794,
           "period_label": "stars this week"
@@ -92,8 +92,8 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 61006,
-          "forks": 5454,
+          "total_stars": 61040,
+          "forks": 5459,
           "period_stars": 4223,
           "period_label": "stars this week"
         },
@@ -103,7 +103,7 @@
           "url": "https://github.com/cursor/plugins",
           "description": "Cursor plugin specification and official plugins",
           "language": "TypeScript",
-          "total_stars": 10908,
+          "total_stars": 10913,
           "forks": 1053,
           "period_stars": 1140,
           "period_label": "stars this week"
@@ -114,8 +114,8 @@
           "url": "https://github.com/flutter/flutter",
           "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
           "language": "Dart",
-          "total_stars": 179809,
-          "forks": 33791,
+          "total_stars": 179814,
+          "forks": 33795,
           "period_stars": 680,
           "period_label": "stars this week"
         },
@@ -125,8 +125,8 @@
           "url": "https://github.com/earthtojake/text-to-cad",
           "description": "Give your agent CAD superpowers.",
           "language": "Python",
-          "total_stars": 19281,
-          "forks": 1899,
+          "total_stars": 19304,
+          "forks": 1903,
           "period_stars": 2508,
           "period_label": "stars this week"
         },
@@ -136,8 +136,8 @@
           "url": "https://github.com/mvschwarz/openrig",
           "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
           "language": "TypeScript",
-          "total_stars": 6984,
-          "forks": 527,
+          "total_stars": 6996,
+          "forks": 529,
           "period_stars": 2028,
           "period_label": "stars this week"
         }
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1791769583337796309-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1791772508290392992-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-10-12T01:46:24+00:00",
-      "fetched_at_taipei": "2026-10-12T09:46:24+08:00",
+      "fetched_at_utc": "2026-10-12T02:35:09+00:00",
+      "fetched_at_taipei": "2026-10-12T10:35:09+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 12 Oct 2026 01:46:24 GMT",
+        "date": "Mon, 12 Oct 2026 02:35:09 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"32fa742326a530d6ccfc79d392c0ae03\"",
-        "x-github-request-id": "6141:31F8FA:1285696:17C0367:6ACC3BEF"
+        "etag": "W/\"2b5aaecb56354fe16aa767245ff9add5\"",
+        "x-github-request-id": "1442:30958C:5EA24E:7C3021:6ACC475C"
       },
-      "html_sha256": "d9e3755f0a2aeb92cf336deca232ee8c985290f596c26bf4576ea8a3c6c5dce6",
+      "html_sha256": "61f5004790593ed2ec2b7b16fcaf1b3b0e097ef1d7b6c00071247ca120272b88",
       "parsed_repository_cards": 22,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/alibaba/open-code-review",
           "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
           "language": "Go",
-          "total_stars": 46206,
-          "forks": 3350,
+          "total_stars": 46226,
+          "forks": 3352,
           "period_stars": 24146,
           "period_label": "stars this month"
         },
@@ -177,8 +177,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "total_stars": 58820,
-          "forks": 6604,
+          "total_stars": 58878,
+          "forks": 6606,
           "period_stars": 36012,
           "period_label": "stars this month"
         },
@@ -188,8 +188,8 @@
           "url": "https://github.com/anthropics/financial-services",
           "description": null,
           "language": "Python",
-          "total_stars": 39402,
-          "forks": 5585,
+          "total_stars": 39411,
+          "forks": 5584,
           "period_stars": 4698,
           "period_label": "stars this month"
         },
@@ -199,7 +199,7 @@
           "url": "https://github.com/paperclipai/paperclip",
           "description": "The open-source app everyone uses to manage agents at work",
           "language": "TypeScript",
-          "total_stars": 100393,
+          "total_stars": 100418,
           "forks": 16912,
           "period_stars": 19987,
           "period_label": "stars this month"
@@ -210,7 +210,7 @@
           "url": "https://github.com/vectorize-io/hindsight",
           "description": "Hindsight: Agent Memory That Learns",
           "language": "Python",
-          "total_stars": 48449,
+          "total_stars": 48466,
           "forks": 6005,
           "period_stars": 25187,
           "period_label": "stars this month"
@@ -221,8 +221,8 @@
           "url": "https://github.com/affaan-m/ECC",
           "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
           "language": "JavaScript",
-          "total_stars": 277264,
-          "forks": 41354,
+          "total_stars": 277288,
+          "forks": 41358,
           "period_stars": 22438,
           "period_label": "stars this month"
         },
@@ -232,8 +232,8 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "total_stars": 29128,
-          "forks": 3305,
+          "total_stars": 29136,
+          "forks": 3306,
           "period_stars": 5173,
           "period_label": "stars this month"
         },
@@ -243,8 +243,8 @@
           "url": "https://github.com/anthropics/claude-code",
           "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
           "language": "TypeScript",
-          "total_stars": 150239,
-          "forks": 26252,
+          "total_stars": 150246,
+          "forks": 26260,
           "period_stars": 6290,
           "period_label": "stars this month"
         },
@@ -254,8 +254,8 @@
           "url": "https://github.com/Tencent/WeKnora",
           "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
           "language": "Go",
-          "total_stars": 33239,
-          "forks": 4422,
+          "total_stars": 33256,
+          "forks": 4426,
           "period_stars": 11116,
           "period_label": "stars this month"
         },
@@ -265,8 +265,8 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 61006,
-          "forks": 5454,
+          "total_stars": 61040,
+          "forks": 5459,
           "period_stars": 11993,
           "period_label": "stars this month"
         }

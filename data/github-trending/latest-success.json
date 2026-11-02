@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "ok",
-  "generated_at_utc": "2026-11-02T01:48:11+00:00",
-  "generated_at_taipei": "2026-11-02T09:48:11+08:00",
+  "generated_at_utc": "2026-11-02T02:40:57+00:00",
+  "generated_at_taipei": "2026-11-02T10:40:57+08:00",
   "freshness_policy": {
     "source": "direct HTTPS request from a GitHub-hosted Actions runner to github.com",
     "cache_busting_query_parameter": true,
@@ -17,18 +17,18 @@
     "weekly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=weekly",
-      "request_url": "https://github.com/trending?since=weekly&_fresh=1793584091996703529-1",
+      "request_url": "https://github.com/trending?since=weekly&_fresh=1793587257903851788-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-11-02T01:48:13+00:00",
-      "fetched_at_taipei": "2026-11-02T09:48:13+08:00",
+      "fetched_at_utc": "2026-11-02T02:40:59+00:00",
+      "fetched_at_taipei": "2026-11-02T10:40:59+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 02 Nov 2026 01:48:13 GMT",
+        "date": "Mon, 02 Nov 2026 02:40:59 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"620d78c219c34b64d3a168b056a2197a\"",
-        "x-github-request-id": "8009:1C492B:46F13D:C5A9C7:6AE7EBDC"
+        "etag": "W/\"57aa1c9461542cb0f5cfd1ca7be1b89f\"",
+        "x-github-request-id": "8008:26AC79:20EDE8:2A7DA7:6AE7F839"
       },
-      "html_sha256": "6711a8f4a04bb2a8a963524a5820c9dd357ee5dff97c4496cb1cb0c51b51d818",
+      "html_sha256": "f99ab9208d619a5fd5bcd088c327998a7805bce4f685a7a35939b83190f792ec",
       "parsed_repository_cards": 16,
       "items": [
         {
@@ -37,8 +37,8 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "total_stars": 44917,
-          "forks": 2386,
+          "total_stars": 44980,
+          "forks": 2388,
           "period_stars": 11566,
           "period_label": "stars this week"
         },
@@ -48,8 +48,8 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "total_stars": 99387,
-          "forks": 5878,
+          "total_stars": 99448,
+          "forks": 5881,
           "period_stars": 12017,
           "period_label": "stars this week"
         },
@@ -59,8 +59,8 @@
           "url": "https://github.com/AgriciDaniel/claude-seo",
           "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
           "language": "Python",
-          "total_stars": 25564,
-          "forks": 3357,
+          "total_stars": 25588,
+          "forks": 3360,
           "period_stars": 5034,
           "period_label": "stars this week"
         },
@@ -70,8 +70,8 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "total_stars": 109348,
-          "forks": 9567,
+          "total_stars": 109447,
+          "forks": 9573,
           "period_stars": 5852,
           "period_label": "stars this week"
         },
@@ -81,8 +81,8 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 56418,
-          "forks": 3677,
+          "total_stars": 56468,
+          "forks": 3681,
           "period_stars": 10069,
           "period_label": "stars this week"
         },
@@ -92,8 +92,8 @@
           "url": "https://github.com/obra/superpowers",
           "description": "An agentic skills framework & software development methodology that works.",
           "language": "Shell",
-          "total_stars": 310653,
-          "forks": 27651,
+          "total_stars": 310683,
+          "forks": 27652,
           "period_stars": 5896,
           "period_label": "stars this week"
         },
@@ -103,8 +103,8 @@
           "url": "https://github.com/JetBrains/thinkrail",
           "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
           "language": "TypeScript",
-          "total_stars": 6978,
-          "forks": 393,
+          "total_stars": 6991,
+          "forks": 395,
           "period_stars": 5760,
           "period_label": "stars this week"
         },
@@ -114,8 +114,8 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": null,
           "language": "TypeScript",
-          "total_stars": 38128,
-          "forks": 8922,
+          "total_stars": 38274,
+          "forks": 8927,
           "period_stars": 6926,
           "period_label": "stars this week"
         },
@@ -125,8 +125,8 @@
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
           "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": null,
-          "total_stars": 228015,
-          "forks": 22742,
+          "total_stars": 228043,
+          "forks": 22745,
           "period_stars": 4459,
           "period_label": "stars this week"
         },
@@ -136,7 +136,7 @@
           "url": "https://github.com/jakubkrehel/skills",
           "description": "A collection of agent skills that help you build great interfaces.",
           "language": "Markdown",
-          "total_stars": 10095,
+          "total_stars": 10113,
           "forks": 392,
           "period_stars": 1607,
           "period_label": "stars this week"
@@ -146,18 +146,18 @@
     "monthly": {
       "status": "ok",
       "source_url": "https://github.com/trending?since=monthly",
-      "request_url": "https://github.com/trending?since=monthly&_fresh=1793584093773373271-1",
+      "request_url": "https://github.com/trending?since=monthly&_fresh=1793587259635179102-1",
       "attempts": 1,
-      "fetched_at_utc": "2026-11-02T01:48:15+00:00",
-      "fetched_at_taipei": "2026-11-02T09:48:15+08:00",
+      "fetched_at_utc": "2026-11-02T02:41:00+00:00",
+      "fetched_at_taipei": "2026-11-02T10:41:00+08:00",
       "http_status": 200,
       "response_headers": {
-        "date": "Mon, 02 Nov 2026 01:48:15 GMT",
+        "date": "Mon, 02 Nov 2026 02:41:00 GMT",
         "cache-control": "max-age=0, private, must-revalidate",
-        "etag": "W/\"488cf3d27d899423f0d899d020652764\"",
-        "x-github-request-id": "8009:1C492B:46F163:C5AA29:6AE7EBDD"
+        "etag": "W/\"48746cfd48b83fe11fefdc2fb18f64bf\"",
+        "x-github-request-id": "8008:26AC79:20F2A7:2A83C9:6AE7F83B"
       },
-      "html_sha256": "6404b1f4e94341c3e1cd6780020d76fc617f171c93ba38219571e48f3e384f1a",
+      "html_sha256": "a78cd67cbd6d00257559d3ee4584a6a1b6568d37365d868669df039fd3f77dc7",
       "parsed_repository_cards": 19,
       "items": [
         {
@@ -166,8 +166,8 @@
           "url": "https://github.com/cloudflare/security-audit-skill",
           "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
           "language": "JavaScript",
-          "total_stars": 56418,
-          "forks": 3677,
+          "total_stars": 56468,
+          "forks": 3681,
           "period_stars": 32599,
           "period_label": "stars this month"
         },
@@ -177,8 +177,8 @@
           "url": "https://github.com/heygen-com/hyperframes",
           "description": "Write HTML. Render video. Built for agents.",
           "language": "TypeScript",
-          "total_stars": 77135,
-          "forks": 7069,
+          "total_stars": 77162,
+          "forks": 7070,
           "period_stars": 22225,
           "period_label": "stars this month"
         },
@@ -188,8 +188,8 @@
           "url": "https://github.com/Nutlope/hallmark",
           "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
           "language": "CSS",
-          "total_stars": 44917,
-          "forks": 2386,
+          "total_stars": 44980,
+          "forks": 2388,
           "period_stars": 15201,
           "period_label": "stars this month"
         },
@@ -199,8 +199,8 @@
           "url": "https://github.com/debpalash/VoiceStudio",
           "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
           "language": "Python",
-          "total_stars": 97973,
-          "forks": 10882,
+          "total_stars": 98044,
+          "forks": 10891,
           "period_stars": 47055,
           "period_label": "stars this month"
         },
@@ -210,8 +210,8 @@
           "url": "https://github.com/anthropics/knowledge-work-plugins",
           "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
           "language": "Python",
-          "total_stars": 34371,
-          "forks": 3799,
+          "total_stars": 34381,
+          "forks": 3800,
           "period_stars": 8486,
           "period_label": "stars this month"
         },
@@ -221,8 +221,8 @@
           "url": "https://github.com/pbakaus/impeccable",
           "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
           "language": "Rust",
-          "total_stars": 99387,
-          "forks": 5878,
+          "total_stars": 99448,
+          "forks": 5881,
           "period_stars": 26119,
           "period_label": "stars this month"
         },
@@ -232,8 +232,8 @@
           "url": "https://github.com/earthtojake/text-to-cad",
           "description": "Design physical products with AI",
           "language": "Python",
-          "total_stars": 24767,
-          "forks": 2365,
+          "total_stars": 24785,
+          "forks": 2368,
           "period_stars": 8238,
           "period_label": "stars this month"
         },
@@ -243,8 +243,8 @@
           "url": "https://github.com/thedotmack/claude-mem",
           "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
           "language": "TypeScript",
-          "total_stars": 109348,
-          "forks": 9567,
+          "total_stars": 109447,
+          "forks": 9573,
           "period_stars": 14011,
           "period_label": "stars this month"
         },
@@ -254,8 +254,8 @@
           "url": "https://github.com/NationalSecurityAgency/ghidra",
           "description": "Ghidra is a software reverse engineering (SRE) framework",
           "language": "Java",
-          "total_stars": 96796,
-          "forks": 10931,
+          "total_stars": 96820,
+          "forks": 10937,
           "period_stars": 16858,
           "period_label": "stars this month"
         },
@@ -265,8 +265,8 @@
           "url": "https://github.com/pingdotgg/t3code",
           "description": null,
           "language": "TypeScript",
-          "total_stars": 38128,
-          "forks": 8922,
+          "total_stars": 38274,
+          "forks": 8927,
           "period_stars": 12629,
           "period_label": "stars this month"
         }
